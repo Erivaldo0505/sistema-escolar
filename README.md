@@ -1,7 +1,11 @@
  # Sistema Escolar
 
-## Descrição
-Este é um projeto de React Native com navegação via Drawer. Ele visa fornecer informações sobre o sistema escolar.
+ ## Descrição
+Este projeto é um sistema escolar desenvolvido em **React Native** com **navegação via Drawer**. Ele inclui funcionalidades como:
+- **Boletim**: Exibe o desempenho acadêmico dos alunos.
+- **Calendário**: Mostra os eventos e datas importantes do ano letivo.
+- **Eventos**: Exibe os eventos programados pela escola.
+- **Contatos**: Contém informações de contato da escola e da equipe administrativa.
 
 ## Tecnologias
 - React Native
@@ -12,4 +16,8 @@ Este é um projeto de React Native com navegação via Drawer. Ele visa fornecer
 1. Clone o repositório
 2. Instale as dependências: `npm install`
 3. Execute o projeto: `npm start`
+
+
+
+
 

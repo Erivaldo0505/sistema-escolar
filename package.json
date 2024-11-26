@@ -1,0 +1,19 @@
+{
+  "name": "drawer-main",
+  "version": "1.0.0",
+  "description": "Este projeto é um sistema escolar desenvolvido em **React Native** com **navegação via Drawer**. Ele inclui funcionalidades como:\r - **Boletim**: Exibe o desempenho acadêmico dos alunos.\r - **Calendário**: Mostra os eventos e datas importantes do ano letivo.\r - **Eventos**: Exibe os eventos programados pela escola.\r - **Contatos**: Contém informações de contato da escola e da equipe administrativa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.0",
+    "expo": "^52.0.11",
+    "expo-router": "^4.0.9",
+    "react-dom": "18.3.1",
+    "react-native-web": "~0.19.13"
+  }
+}
